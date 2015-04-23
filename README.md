@@ -25,6 +25,14 @@ This script allows you to easily create simple isotype charts from an existing s
 
 ![Stacks render](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/stacks.png)
 
+### [Radiating Bar Graph.jsx](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/Radiating%20Bar%20Graph.jsx)
+
+This script makes it easy to create radiating bar graphs with numerous customisation options.
+
+![Radiating Bar Graph GUI](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/radiating_bar_graph_gui.png)
+
+![Radiating Bar Graph render](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/radiating_bar_graph_render.png)
+
 ## F.A.Q.
 
 - I found a bug!    
