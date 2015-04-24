@@ -13,27 +13,27 @@ While the scripts have not yet been all rewritten, several are already working:
 
 This script allows you top draw an analog clock.
 
-![Analog Clock script GUI](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/clock_gui.png)
+![Analog Clock script GUI](https://raw.githubusercontent.com/StudioV2/dViz_Tools_jsx/master/img/clock_gui.png)
 
-![Analog Clock render](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/clock.png)
+![Analog Clock render](https://raw.githubusercontent.com/StudioV2/dViz_Tools_jsx/master/img/clock.png)
 
 ### [Stacks.jsx](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/Stacks.jsx)
 
 This script allows you to easily create simple isotype charts from an existing symbol. You must have the symbol you want to use to create your visualisation selected before launching that script.
 
-![Stacks script GUI](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/Stacks_gui.png)
+![Stacks script GUI](https://raw.githubusercontent.com/StudioV2/dViz_Tools_jsx/master/img/Stacks_gui.png)
 
-![Stacks render](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/stacks.png)
+![Stacks render](https://raw.githubusercontent.com/StudioV2/dViz_Tools_jsx/master/img/stacks.png)
 
 ### [Radiating Bar Graph.jsx](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/Radiating%20Bar%20Graph.jsx)
 
 This script makes it easy to create radiating bar graphs with numerous customisation options.
 
-![Radiating Bar Graph GUI](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/radiating_bar_graph_gui.png)
+![Radiating Bar Graph GUI](https://raw.githubusercontent.com/StudioV2/dViz_Tools_jsx/master/img/radiating_bar_graph_gui.png)
 
-![Radiating Bar Graph render](https://raw.githubusercontent.com/Marneus68/dViz_Tools_jsx/master/img/radiating_bar_graph_render.png)
+![Radiating Bar Graph render](https://raw.githubusercontent.com/StudioV2/dViz_Tools_jsx/master/img/radiating_bar_graph_render.png)
 
 ## F.A.Q.
 
 - I found a bug!    
-Great, if you know how to use GitHub then you can create a [new issue on the repository](https://github.com/Marneus68/dViz_Tools_jsx/issues). Don't forget to mention the version of Illustrator, the OS you're running it on and any specific informations that could be used to reproduce the bug.
+Great, if you know how to use GitHub then you can create a [new issue on the repository](https://github.com/StudioV2/dViz_Tools_jsx/issues). Don't forget to mention the version of Illustrator, the OS you're running it on and any specific informations that could be used to reproduce the bug.
